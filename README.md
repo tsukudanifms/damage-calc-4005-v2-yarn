@@ -1,4 +1,6 @@
 # damage-calc
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
